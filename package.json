@@ -1,0 +1,12 @@
+{
+  "name": "kampus-akademik",
+  "version": "1.0.0",
+  "description": "Aplikasi contoh layanan akademik kampus untuk simulasi CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
